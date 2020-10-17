@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  modus = num2 % num1
+  modus = num1 % num2
   return modus
 end
 
