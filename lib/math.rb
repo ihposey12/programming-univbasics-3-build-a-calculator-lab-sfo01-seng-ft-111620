@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
   modus = num2 % num1
-  return modus
+  return modus.floor()
 end
 
 def square_root(num)
